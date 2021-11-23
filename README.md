@@ -6,3 +6,14 @@ The source code is mine but can be used for everybody. Just note, that the code 
 the code, it will be very helpful for you, to solve the challenges by yourself.
 
 Note: I will not upload the source code for every problem's solution. 
+
+Links to the challenges:
+
+Merge the tools!:
+https://www.hackerrank.com/challenges/merge-the-tools/problem
+
+Compress the string!:
+https://www.hackerrank.com/challenges/compress-the-string/problem
+
+Nested Lists:
+https://www.hackerrank.com/challenges/nested-list/problem
