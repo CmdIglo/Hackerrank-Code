@@ -5,7 +5,14 @@ This Repo is about the Python challenges on hackerrank.com . You will find the s
 The source code is mine but can be used for everybody. Just note, that the code I provide may not always be the most efficient way to solve a problem, but if you understand
 the code, it will be very helpful for you, to solve the challenges by yourself.
 
-Note: I will not upload the source code for every problem's solution. 
+Note: I will not upload the source code for every problem's solution. Also I like to write my solutions in following format: 
+def main():
+  ...
+  
+if __name__ == "__main__":
+  main()
+  
+where "main()" is the function where all the magic happens and "if __name__ == "__main__"" is the beginning of the actual executable code. 
 
 Links to the challenges:
 
