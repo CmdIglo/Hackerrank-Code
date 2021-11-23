@@ -29,20 +29,27 @@ Constraints:
 
 #  - - - - - - - - - - - - - - - - - - Code - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 
+# the function has to have two arguments: string and k (see description above)
 def merge_the_tools(string, k):
     
+    # Input string gets formatted into list to create substrings 
     strlist = [i for i in string]
+    # list of substrings with the length of k
     chunks = [strlist[x:x+k] for x in range(0, len(strlist), k)]
     
+    # deleting duplicates in the substrings (can also be done by formatting the list to sets and back) and replacing substrings by the new substrings
     for i in range(len(chunks)):
         
         lis = []
         
+        # checks if each value j is already in the list "lis", if not append, if yes skip
         for j in chunks[i]:
             if j not in lis:
                 lis.append(j)
         
+        # the substring gets replaced by the list which we created by leaving out duplicate values
         chunks[i] = lis
     
+    # printing the substrings as strings
     for i in range(len(chunks)):
         print("".join(letter for letter in chunks[i]))
