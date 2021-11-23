@@ -5,7 +5,7 @@ This Repo is about the Python challenges on hackerrank.com . You will find the s
 The source code is mine but can be used for everybody. Just note, that the code I provide may not always be the most efficient way to solve a problem, but if you understand
 the code, it will be very helpful for you, to solve the challenges by yourself.
 
-Note: I will not upload the source code for every problem's solution. Also I like to write my solutions in following format: 
+Note: I will not upload the source code for every problem's solution. Also I like to write my solutions in following format: \n
 def main():
   ...
   
