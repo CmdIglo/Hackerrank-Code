@@ -24,3 +24,6 @@ https://www.hackerrank.com/challenges/compress-the-string/problem
 
 Nested Lists:
 https://www.hackerrank.com/challenges/nested-list/problem
+
+Word Order:
+https://www.hackerrank.com/challenges/word-order/problem
