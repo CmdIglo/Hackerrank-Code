@@ -25,7 +25,7 @@ https://www.hackerrank.com/challenges/compress-the-string/problem
 Nested Lists (Easy):
 https://www.hackerrank.com/challenges/nested-list/problem
 
-Word Order:
+Word Order (Medium):
 https://www.hackerrank.com/challenges/word-order/problem
 
 Check Subset (Easy):
