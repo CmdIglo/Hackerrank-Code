@@ -28,5 +28,5 @@ https://www.hackerrank.com/challenges/nested-list/problem
 Word Order:
 https://www.hackerrank.com/challenges/word-order/problem
 
-Check Subset:
+Check Subset (Easy):
 https://www.hackerrank.com/challenges/py-check-subset/problem
