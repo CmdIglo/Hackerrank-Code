@@ -16,13 +16,13 @@ where "main()" is the function where all the magic happens and "if __name__ == "
 
 Links to the challenges:
 
-Merge the tools!:
+Merge the tools! (Medium):
 https://www.hackerrank.com/challenges/merge-the-tools/problem
 
-Compress the string!:
+Compress the string! (Medium):
 https://www.hackerrank.com/challenges/compress-the-string/problem
 
-Nested Lists:
+Nested Lists (Easy):
 https://www.hackerrank.com/challenges/nested-list/problem
 
 Word Order:
